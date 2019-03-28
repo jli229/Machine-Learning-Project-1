@@ -1,18 +1,4 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
-import pandas as pd
-import math
-import random
-from sklearn import datasets, linear_model
-from sklearn.model_selection import train_test_split
-from sklearn.cluster import KMeans
-import numpy as np
-import matplotlib.pyplot
-from matplotlib import pyplot as plt
+ plt
 import tensorflow as tf
 from tqdm import tqdm_notebook
 get_ipython().run_line_magic('matplotlib', 'inline')
